@@ -261,7 +261,7 @@
                 </figcaption>
             </figure>
             <figure>
-                <img src="assets/img/bus.svg" alt="Bus Icon" width="100px" height="100px">
+                <img src="assets/img/bus.png" alt="Bus Icon" width="100px" height="100px">
                 <figcaption>
                     <span class="num counter" data-target="<?php echo count($busData); ?>">999</span>
                     <span class="icon-name">bus</span>
