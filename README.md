@@ -1,6 +1,6 @@
 # Bus_Management_System_project
 
-permalink: /index.php
+permalink: index.php
 
 /*
 
