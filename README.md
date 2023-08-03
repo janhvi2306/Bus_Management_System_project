@@ -1,5 +1,7 @@
 # Bus_Management_System_project
 
+permalink: /index.php
+
 /*
 
 Designed by JANHVI
